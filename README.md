@@ -1,9 +1,5 @@
 # 👥 Employee Intelligence Platform (Full-Stack HR Analytics)
 
-[![Python](https://shields.io)](https://python.org)
-[![Framework](https://shields.io)](https://streamlit.io)
-[![Application Type](https://shields.io)]()
-
 An enterprise-grade, interactive Human Resources (HR) decision-support infrastructure engineered using **Python** and **Streamlit** to centralize compensation monitoring, execute multi-dimensional data filtering, and manage real-time employee data operations.
 
 ---
